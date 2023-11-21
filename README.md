@@ -35,3 +35,11 @@ This project demonstrates how to build a serverless data lake using Amazon S3 an
 ## License
 
 This project is licensed under the MIT License.
+
+## Running the Project
+
+# Install the required Python dependencies using the following command:
+pip install -r requirements.txt
+
+# Run the following scripts to create the S3 bucket, crawler, and job:
+python create_
